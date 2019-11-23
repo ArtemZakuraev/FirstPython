@@ -1,5 +1,5 @@
-viruchka = int(input('введите cумму выручки\n'))
-izderzhki = int(input('введите cумму издержек\n'))
+viruchka = int(input('введите cумму выручки\n '))
+izderzhki = int(input('введите cумму издержек\n '))
 
 if viruchka > izderzhki:
     rezult = (viruchka / izderzhki)*100
