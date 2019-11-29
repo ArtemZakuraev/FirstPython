@@ -1,5 +1,8 @@
-number = int(input('введите число\n '))
+"""
+Добавляем комментарий
+"""
+number = int(input('введите число\n'))
 print(number)
 
-string = input('введите строку\n')
+string = input('введите строку\n ')
 print(string)
