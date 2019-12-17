@@ -1,4 +1,7 @@
-string = input('введите число\n')
+"""
+Добавляем комментарий
+"""
+string = input('введите число\n ')
 # Собираем из строки число
 number = int(string)
 number1 = int(string+string)
